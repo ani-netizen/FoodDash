@@ -52,6 +52,7 @@ header {
 	transition-duration: 1s;
 	background-position: right center;
 	box-shadow: -5px -5px rgba(255, 255, 255, 0.4), 0 0 10px #eee;
+	cursor: pointer;
 }
 
 .hero__container {
@@ -120,6 +121,10 @@ form {
 	border: none;
 	margin-top: 10px;
 	margin-bottom: 20px;
+}
+
+.btn__find-food:hover {
+	cursor: pointer;
 }
 
 .text-x1 {
@@ -317,7 +322,6 @@ footer {
 }
 
 .app-stores {
-	padding: 6px 0;
 	width: 130px;
 }
 
