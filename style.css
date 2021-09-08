@@ -50,9 +50,9 @@ header {
 
 .button__sign-in:hover {
 	transition-duration: 1s;
+	cursor: pointer;
 	background-position: right center;
 	box-shadow: -5px -5px rgba(255, 255, 255, 0.4), 0 0 10px #eee;
-	cursor: pointer;
 }
 
 .hero__container {
